@@ -117,12 +117,13 @@ img{
 }
 
 .games h4{
+	position: relative;
 	text-align: center;
 	color: #fff;
 	font-size: 70px;
     font-family: Dishonorable Mention: Comic Sans;
     font-weight: bolder;
-	position: relative;
+	
 }
 
 .una{
