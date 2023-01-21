@@ -159,7 +159,7 @@ span{
 	color: aqua;
 }
 
-@media all and (max-width: 400px){
+@media all and (max-width: 360px){
 
 		ul{
 			float:right;
